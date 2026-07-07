@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../AuthenticationApiSolution/AuthenticationApi.Presentation/AuthenticationApi.Presentation.csproj" />
+  <Project Path="../DemoEcommerce.ApiGatewaySolution/ApiGateway.Presentation/ApiGateway.Presentation.csproj" />
+  <Project Path="../OrderApiSolution/OrderApi.Presentation/OrderApi.Presentation.csproj" />
+  <Project Path="../ProductApiSolution/ProductApi.Presentation/ProductApi.Presentation.csproj" />
+  <Project Path="AspireHostSolution.AppHost/AspireHostSolution.AppHost.csproj" />
+</Solution>

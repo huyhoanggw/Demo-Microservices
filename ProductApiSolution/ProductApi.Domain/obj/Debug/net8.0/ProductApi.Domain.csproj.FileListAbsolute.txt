@@ -1,0 +1,11 @@
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll

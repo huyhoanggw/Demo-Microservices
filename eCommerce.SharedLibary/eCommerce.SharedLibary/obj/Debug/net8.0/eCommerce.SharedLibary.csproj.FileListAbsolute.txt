@@ -1,0 +1,14 @@
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\bin\Debug\net8.0\eCommerce.SharedLibary.deps.json
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\bin\Debug\net8.0\eCommerce.SharedLibary.runtimeconfig.json
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\bin\Debug\net8.0\eCommerce.SharedLibary.dll
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\bin\Debug\net8.0\eCommerce.SharedLibary.pdb
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.csproj.AssemblyReference.cache
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.AssemblyInfoInputs.cache
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.AssemblyInfo.cs
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.csproj.CoreCompileInputs.cache
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.dll
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\refint\eCommerce.SharedLibary.dll
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.pdb
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.genruntimeconfig.cache
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\ref\eCommerce.SharedLibary.dll

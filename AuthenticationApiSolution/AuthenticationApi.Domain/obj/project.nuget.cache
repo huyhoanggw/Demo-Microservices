@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYdy5g8pw1o=",
+  "success": true,
+  "projectFilePath": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Domain\\AuthenticationApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HOANG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\HOANG\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\HOANG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

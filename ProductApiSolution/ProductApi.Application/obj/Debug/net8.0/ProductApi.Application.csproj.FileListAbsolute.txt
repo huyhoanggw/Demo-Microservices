@@ -1,0 +1,17 @@
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibary.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibary.pdb
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductA.E443A747.Up2Date
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+D:\MicroServicesProject\ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll

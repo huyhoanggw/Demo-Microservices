@@ -1,0 +1,11 @@
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll

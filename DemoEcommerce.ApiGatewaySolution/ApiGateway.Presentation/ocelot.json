@@ -1,0 +1,155 @@
+{
+  "Routes": [
+    //jwt authentication
+    {
+      "DownstreamPathTemplate": "/api/authentication/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5000
+        }
+      ],
+      "UpstreamPathTemplate": "/api/authentication/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "60s",
+        "Limit": 1,
+        "PeriodTimespan": 10,
+             }
+    },
+    //product api
+    // get method
+    {
+      "DownstreamPathTemplate": "/api/products",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+
+      ],
+      "UpstreamPathTemplate": "/api/products",
+      "UpstreamHttpMethod": [ "GET" ],
+      "FileCacheOptions": {
+        "Region": "default",
+        "TtlSeconds": 60,
+        "Header": "eCommerce-Caching-Control"
+      },
+      "RateLimitOptions": {
+        "EnableRateLimiting": false
+      }
+
+    },
+    // get product by id
+    {
+      "DownstreamPathTemplate": "/api/products/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/products/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "FileCacheOptions": {
+        "Region": "default",
+        "TtlSeconds": 60,
+        "Header": "eCommerce-Caching-Control"
+
+      },
+    },
+    //POST PUT DELETE product
+    {
+      "DownstreamPathTemplate": "/api/products/{everything}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+
+      ],
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/products/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    // ORder api
+    {
+      "DownstreamPathTemplate": "/api/order",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/order",
+      "UpstreamHttpMethod": [ "GET" ],
+      "FileCacheOptions": {
+        "Region": "default",
+        "TtlSeconds": 60,
+        "Header": "eCommerce-Caching-Control"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    // get by id order
+    {
+      "DownstreamPathTemplate": "/api/order/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/order{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "FileCacheOptions": {
+        "Region": "default",
+        "TtlSeconds": 60,
+        "Header": "eCommerce-Caching-Control"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    //POST PUT DELETE order
+    {
+      "DownstreamPathTemplate": "/api/order/{everything}",
+      
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+
+      ],
+      "DownstreamScheme": "http",
+      "UpstreamPathTemplate": "/api/order/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost5003",
+    "RateLimitOptions": {
+      "QuotaExceededMessage": "You are overwhelming me with multiple requests .Relax small",
+      "ClientIdHeader": "ClientIdHeader"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.deps.json
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.pdb
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\eCommerce.SharedLibary.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Domain.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\eCommerce.SharedLibary.pdb
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\bin\Debug\net8.0\OrderApi.Domain.pdb
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.csproj.AssemblyReference.cache
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.AssemblyInfoInputs.cache
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.AssemblyInfo.cs
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.csproj.CoreCompileInputs.cache
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.A1672EEC.Up2Date
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\refint\OrderApi.Application.dll
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.pdb
+D:\MicroServicesProject\OrderApiSolution\OrderApi.Application\obj\Debug\net8.0\ref\OrderApi.Application.dll
