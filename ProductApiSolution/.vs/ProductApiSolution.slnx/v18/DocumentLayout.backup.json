@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\MicroServicesProject\\ProductApiSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|d:\\microservicesproject\\productapisolution\\productapi.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|d:\\microservicesproject\\productapisolution\\productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\productapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|d:\\microservicesproject\\productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -27,15 +35,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Dockerfile",
+              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
+              "RelativeToolTip": "ProductApi.Presentation\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-16T17:06:06.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApi.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "RelativeToolTip": "ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T16:26:21.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json*",
-              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-07T15:46:53.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T15:46:53.744Z"
             }
           ]
         }

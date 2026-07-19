@@ -1,0 +1,21 @@
+services:
+  product-api:
+    image: product-api:v1
+    ports: 
+      - "5001:8080"
+
+  order-api:
+    image: order-api:v1
+    ports: 
+      - "5002:8080"
+
+  authentication-api:
+    image: authentication-api:v1
+    ports:
+      - "5000:8080"
+
+  api-gateway:
+    image: api-gateway:v1
+    ports: 
+      - "5003:8080"
+ 

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\MicroServicesProject\\AuthenticationApiSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\microservicesproject\\authenticationapisolution\\authenticationapi.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\microservicesproject\\authenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F2BDF6-A10B-CEC9-F542-61A2609D946C}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,7 +55,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,7 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Dockerfile",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Dockerfile",
+              "ToolTip": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Dockerfile",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-17T14:36:46.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\DI\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\DI\\ServiceContainer.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "AuthenticationApi.Infrastructure\\DI\\ServiceContainer.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAvwBoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T16:59:49.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T16:59:49.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SharedServicesContainer.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\DI\\SharedServicesContainer.cs",
               "RelativeDocumentMoniker": "..\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\DI\\SharedServicesContainer.cs",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "..\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\DI\\SharedServicesContainer.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAqwCcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T17:00:31.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T17:00:31.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
@@ -101,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AppUserDto.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Application\\Dto\\AppUserDto.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Application\\Dto\\AppUserDto.cs",
@@ -113,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Program.cs",
-              "ToolTip": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs*",
-              "RelativeToolTip": "AuthenticationApi.Presentation\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAqAAAAAAAAAA==",
+              "ToolTip": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-04T15:53:16.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ListenToOnlyApiGateway.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\Middleware\\ListenToOnlyApiGateway.cs",
               "RelativeDocumentMoniker": "..\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\Middleware\\ListenToOnlyApiGateway.cs",
@@ -134,12 +149,11 @@
               "RelativeToolTip": "..\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\Middleware\\ListenToOnlyApiGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T15:53:00.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T15:53:00.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GlobalException.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\Middleware\\GlobalException.cs",
               "RelativeDocumentMoniker": "..\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\Middleware\\GlobalException.cs",
@@ -147,12 +161,11 @@
               "RelativeToolTip": "..\\eCommerce.SharedLibary\\eCommerce.SharedLibary\\Middleware\\GlobalException.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T15:52:40.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T15:52:40.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
@@ -160,12 +173,11 @@
               "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T15:51:08.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T15:51:08.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Repository\\UserRepository.cs",
@@ -173,12 +185,11 @@
               "RelativeToolTip": "AuthenticationApi.Infrastructure\\Repository\\UserRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAASwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T15:50:07.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T15:50:07.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20260704154733_Initial.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Migrations\\20260704154733_Initial.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Migrations\\20260704154733_Initial.cs",
@@ -190,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AuthenticationDbcontextFactory.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Infrastructure\\Database\\AuthenticationDbcontextFactory.cs",
               "RelativeDocumentMoniker": "AuthenticationApi.Infrastructure\\Database\\AuthenticationDbcontextFactory.cs",

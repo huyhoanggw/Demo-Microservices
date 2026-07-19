@@ -108,3 +108,4 @@ D:\MicroServicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation
 D:\MicroServicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.pdb
 D:\MicroServicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.genruntimeconfig.cache
 D:\MicroServicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ref\ApiGateway.Presentation.dll
+D:\MicroServicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.sourcelink.json

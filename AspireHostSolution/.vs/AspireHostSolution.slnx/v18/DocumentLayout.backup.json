@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\MicroServicesProject\\AspireHostSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F22FAE17-D13F-40DF-9203-DF428A7779ED}|AspireHostSolution.AppHost\\AspireHostSolution.AppHost.csproj|d:\\microservicesproject\\aspirehostsolution\\aspirehostsolution.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F22FAE17-D13F-40DF-9203-DF428A7779ED}|AspireHostSolution.AppHost\\AspireHostSolution.AppHost.csproj|solutionrelative:aspirehostsolution.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7F0048-7AF5-AF73-2309-DD7CC917B748}|AspireHostSolution.AppHost\\AspireHostSolution.AppHost.csproj|d:\\microservicesproject\\aspirehostsolution\\aspirehostsolution.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7F0048-7AF5-AF73-2309-DD7CC917B748}|AspireHostSolution.AppHost\\AspireHostSolution.AppHost.csproj|solutionrelative:aspirehostsolution.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "AspireHostSolution.AppHost\\AppHost.cs",
               "ToolTip": "D:\\MicroServicesProject\\AspireHostSolution\\AspireHostSolution.AppHost\\AppHost.cs",
               "RelativeToolTip": "AspireHostSolution.AppHost\\AppHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T15:30:30.186Z",
               "EditorCaption": ""

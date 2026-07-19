@@ -38,7 +38,11 @@
         "Region": "default",
         "TtlSeconds": 60,
         "Header": "eCommerce-Caching-Control"
+      },
+      "RateLimitOptions": {
+        "EnableRateLimiting": false
       }
+
     },
     // get product by id
     {
@@ -57,7 +61,7 @@
         "TtlSeconds": 60,
         "Header": "eCommerce-Caching-Control"
 
-      }
+      },
     },
     //POST PUT DELETE product
     {

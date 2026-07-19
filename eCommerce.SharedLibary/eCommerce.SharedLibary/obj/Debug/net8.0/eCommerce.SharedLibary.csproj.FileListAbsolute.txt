@@ -12,3 +12,4 @@ D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\
 D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.pdb
 D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.genruntimeconfig.cache
 D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\ref\eCommerce.SharedLibary.dll
+D:\MicroServicesProject\eCommerce.SharedLibary\eCommerce.SharedLibary\obj\Debug\net8.0\eCommerce.SharedLibary.sourcelink.json
