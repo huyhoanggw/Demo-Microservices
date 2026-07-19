@@ -6,14 +6,14 @@ pipeline {
         
         stage('restore apphost'){
             steps{
-                bat 'dotnet restore MicroservicesProject/AspireHostSolution/AspireHostSolution.sln'
+                bat 'dotnet restore MicroservicesProject/AspireHostSolution/AspireHostSolution.slnx'
                     echo 'Restore completed successfully.'
             }
         }
 
         stage('build apphost'){
             steps{
-                bat 'dotnet build MicroservicesProject/AspireHostSolution/AspireHostSolution.sln --configuration Release --no-restore'
+                bat 'dotnet build MicroservicesProject/AspireHostSolution/AspireHostSolution.slnx --configuration Release --no-restore'
                  echo 'Build completed successfully.'
             }
         }

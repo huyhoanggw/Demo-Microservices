@@ -3,8 +3,23 @@
   "WorkspaceRootPath": "D:\\MicroServicesProject\\AspireHostSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E0A6C20-7BA8-A49C-F175-671496F65BA7}|..\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj|d:\\microservicesproject\\productapisolution\\productapi.presentation\\productapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0A6C20-7BA8-A49C-F175-671496F65BA7}|..\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj|d:\\microservicesproject\\productapisolution\\productapi.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34B1DC7-8378-2FD5-5356-953DE4B635D2}|..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\microservicesproject\\authenticationapisolution\\authenticationapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34B1DC7-8378-2FD5-5356-953DE4B635D2}|..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|d:\\microservicesproject\\authenticationapisolution\\authenticationapi.presentation\\authenticationapi.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D7F0048-7AF5-AF73-2309-DD7CC917B748}|AspireHostSolution.AppHost\\AspireHostSolution.AppHost.csproj|d:\\microservicesproject\\aspirehostsolution\\aspirehostsolution.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7F0048-7AF5-AF73-2309-DD7CC917B748}|AspireHostSolution.AppHost\\AspireHostSolution.AppHost.csproj|solutionrelative:aspirehostsolution.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0A6C20-7BA8-A49C-F175-671496F65BA7}|..\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj|d:\\microservicesproject\\productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +42,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductApi.Presentation",
+              "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "RelativeDocumentMoniker": "..\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "RelativeToolTip": "..\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T16:22:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
+              "RelativeDocumentMoniker": "..\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
+              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
+              "RelativeToolTip": "..\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-16T16:22:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "ToolTip": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:07:31.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationApi.Presentation.http",
+              "DocumentMoniker": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "RelativeDocumentMoniker": "..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "ToolTip": "D:\\MicroServicesProject\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "RelativeToolTip": "..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-16T16:07:30.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:06:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppHost.cs",
               "DocumentMoniker": "D:\\MicroServicesProject\\AspireHostSolution\\AspireHostSolution.AppHost\\AppHost.cs",
               "RelativeDocumentMoniker": "AspireHostSolution.AppHost\\AppHost.cs",

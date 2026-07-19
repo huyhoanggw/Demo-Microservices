@@ -42,7 +42,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductApi.Presentation",
+              "Title": "ProductApi.Presentation.csproj",
               "DocumentMoniker": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
               "RelativeDocumentMoniker": "..\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
               "ToolTip": "D:\\MicroServicesProject\\ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "..\\ProductApiSolution\\ProductApi.Presentation\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-07-16T16:22:24.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T16:22:24.949Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T16:07:31.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T16:07:31.105Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "..\\AuthenticationApiSolution\\AuthenticationApi.Presentation\\AuthenticationApi.Presentation.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-07-16T16:07:30.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T16:07:30.246Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "..\\ProductApiSolution\\ProductApi.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T16:06:22.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T16:06:22.089Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "AspireHostSolution.AppHost\\AppHost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T15:30:30.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T15:30:30.186Z"
             }
           ]
         }
