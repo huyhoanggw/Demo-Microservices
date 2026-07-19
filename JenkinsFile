@@ -2,16 +2,29 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout') {
-            steps {
-                echo 'Clone source successfully'
+      
+        
+        stage('restore apphost'){
+            steps{
+                bat 'dotnet restore MicroservicesProject/AspireHostSolution/AspireHostSolution.sln'
+                    echo 'Restore completed successfully.'
             }
         }
 
-        stage('Build') {
-            steps {
-                bat 'dotnet --version'
+        stage('build apphost'){
+            steps{
+                bat 'dotnet build MicroservicesProject/AspireHostSolution/AspireHostSolution.sln --configuration Release --no-restore'
+                 echo 'Build completed successfully.'
+            }
+        }
+        
+        stage('run apphost'){
+            steps{
+                bat 'dotnet run --project MicroservicesProject/AspireHostSolution/AspireHostSolution.AppHost/AspireHostSolution.AppHost.csproj'
+                 echo 'Run completed successfully.'
             }
         }
     }
+
+
 }
